@@ -1,0 +1,65 @@
+SAINC4 Personal Income and Employment by Major Component,,,
+Per capita personal income (Dollars) 4/ ,,,
+Bureau of Economic Analysis ,,,
+State or DC,,,
+GeoFips,GeoName,2018,Rank
+0,United States,54581,--
+11000,District of Columbia,80943,--
+9000,Connecticut,74791,1
+25000,Massachusetts,71768,2
+36000,New York,68609,3
+34000,New Jersey,67801,4
+6000,California,63759,5
+24000,Maryland,62642,6
+53000,Washington,62185,7
+33000,New Hampshire,61399,8
+56000,Wyoming,60537,9
+2000,Alaska *,60234,10
+8000,Colorado,58836,11
+51000,Virginia,57898,12
+27000,Minnesota,57346,13
+17000,Illinois,57138,14
+42000,Pennsylvania,55996,15
+38000,North Dakota,55643,16
+15000,Hawaii *,55116,17
+44000,Rhode Island,54377,18
+50000,Vermont,53493,19
+31000,Nebraska,52893,20
+10000,Delaware,52848,21
+46000,South Dakota,52592,22
+55000,Wisconsin,51611,23
+41000,Oregon,51479,24
+20000,Kansas,51236,25
+48000,Texas,51144,26
+12000,Florida,50939,27
+19000,Iowa,50154,28
+32000,Nevada,49944,29
+23000,Maine,48753,30
+39000,Ohio,48728,31
+30000,Montana,48141,32
+26000,Michigan,47762,33
+18000,Indiana,47300,34
+47000,Tennessee,47165,35
+29000,Missouri,47076,36
+49000,Utah,46984,37
+13000,Georgia,46921,38
+37000,North Carolina,46172,39
+22000,Louisiana,46159,40
+40000,Oklahoma,45806,41
+4000,Arizona,44558,42
+16000,Idaho,44514,43
+45000,South Carolina,43847,44
+5000,Arkansas,43290,45
+1000,Alabama,42676,46
+21000,Kentucky,42309,47
+35000,New Mexico,41650,48
+54000,West Virginia,41154,49
+28000,Mississippi,37828,50
+91000,New England,67460,1
+92000,Mideast,64292,2
+98000,Far West,61629,3
+97000,Rocky Mountain,52886,4
+94000,Plains,51850,5
+93000,Great Lakes,50957,6
+96000,Southwest,49037,7
+95000,Southeast,47675,8

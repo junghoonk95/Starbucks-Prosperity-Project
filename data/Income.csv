@@ -1,0 +1,251 @@
+"SAINC4 Personal Income and Employment by Major Component"
+"" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","LineCode","Description","2018"
+"00000","United States","","Income by place of residence",""
+"00000","United States","10","Personal income (millions of dollars)",17839255.0
+"00000","United States","20","Population (persons) 3/",326838199
+"00000","United States","70","  Proprietors' income 9/",1590035.0
+"01000","Alabama","","Income by place of residence",""
+"01000","Alabama","10","Personal income (millions of dollars)",208752.7
+"01000","Alabama","20","Population (persons) 3/",4891628
+"01000","Alabama","70","  Proprietors' income 9/",14279.7
+"02000","Alaska *","","Income by place of residence",""
+"02000","Alaska *","10","Personal income (millions of dollars)",44369.6
+"02000","Alaska *","20","Population (persons) 3/",736624
+"02000","Alaska *","70","  Proprietors' income 9/",3311.9
+"04000","Arizona","","Income by place of residence",""
+"04000","Arizona","10","Personal income (millions of dollars)",319226.3
+"04000","Arizona","20","Population (persons) 3/",7164228
+"04000","Arizona","70","  Proprietors' income 9/",22093.3
+"05000","Arkansas","","Income by place of residence",""
+"05000","Arkansas","10","Personal income (millions of dollars)",130397.5
+"05000","Arkansas","20","Population (persons) 3/",3012161
+"05000","Arkansas","70","  Proprietors' income 9/",7586.6
+"06000","California","","Income by place of residence",""
+"06000","California","10","Personal income (millions of dollars)",2514503.4
+"06000","California","20","Population (persons) 3/",39437463
+"06000","California","70","  Proprietors' income 9/",239959.3
+"08000","Colorado","","Income by place of residence",""
+"08000","Colorado","10","Personal income (millions of dollars)",335195.8
+"08000","Colorado","20","Population (persons) 3/",5697155
+"08000","Colorado","70","  Proprietors' income 9/",34225.5
+"09000","Connecticut","","Income by place of residence",""
+"09000","Connecticut","10","Personal income (millions of dollars)",267346.2
+"09000","Connecticut","20","Population (persons) 3/",3574561
+"09000","Connecticut","70","  Proprietors' income 9/",29396.6
+"10000","Delaware","","Income by place of residence",""
+"10000","Delaware","10","Personal income (millions of dollars)",51103.1
+"10000","Delaware","20","Population (persons) 3/",966985
+"10000","Delaware","70","  Proprietors' income 9/",4447.6
+"11000","District of Columbia","","Income by place of residence",""
+"11000","District of Columbia","10","Personal income (millions of dollars)",56995.8
+"11000","District of Columbia","20","Population (persons) 3/",704147
+"11000","District of Columbia","70","  Proprietors' income 9/",6623.0
+"12000","Florida","","Income by place of residence",""
+"12000","Florida","10","Personal income (millions of dollars)",1082702.2
+"12000","Florida","20","Population (persons) 3/",21254926
+"12000","Florida","70","  Proprietors' income 9/",65609.2
+"13000","Georgia","","Income by place of residence",""
+"13000","Georgia","10","Personal income (millions of dollars)",493575.9
+"13000","Georgia","20","Population (persons) 3/",10519389
+"13000","Georgia","70","  Proprietors' income 9/",42519.7
+"15000","Hawaii *","","Income by place of residence",""
+"15000","Hawaii *","10","Personal income (millions of dollars)",78436.1
+"15000","Hawaii *","20","Population (persons) 3/",1423102
+"15000","Hawaii *","70","  Proprietors' income 9/",6404.1
+"16000","Idaho","","Income by place of residence",""
+"16000","Idaho","10","Personal income (millions of dollars)",77992.6
+"16000","Idaho","20","Population (persons) 3/",1752074
+"16000","Idaho","70","  Proprietors' income 9/",8302.3
+"17000","Illinois","","Income by place of residence",""
+"17000","Illinois","10","Personal income (millions of dollars)",727064.1
+"17000","Illinois","20","Population (persons) 3/",12724685
+"17000","Illinois","70","  Proprietors' income 9/",55347.6
+"18000","Indiana","","Income by place of residence",""
+"18000","Indiana","10","Personal income (millions of dollars)",316836.5
+"18000","Indiana","20","Population (persons) 3/",6698481
+"18000","Indiana","70","  Proprietors' income 9/",29755.9
+"19000","Iowa","","Income by place of residence",""
+"19000","Iowa","10","Personal income (millions of dollars)",157980.9
+"19000","Iowa","20","Population (persons) 3/",3149900
+"19000","Iowa","70","  Proprietors' income 9/",14104.5
+"20000","Kansas","","Income by place of residence",""
+"20000","Kansas","10","Personal income (millions of dollars)",149239.0
+"20000","Kansas","20","Population (persons) 3/",2912748
+"20000","Kansas","70","  Proprietors' income 9/",17160.5
+"21000","Kentucky","","Income by place of residence",""
+"21000","Kentucky","10","Personal income (millions of dollars)",188876.8
+"21000","Kentucky","20","Population (persons) 3/",4464273
+"21000","Kentucky","70","  Proprietors' income 9/",12120.1
+"22000","Louisiana","","Income by place of residence",""
+"22000","Louisiana","10","Personal income (millions of dollars)",215308.7
+"22000","Louisiana","20","Population (persons) 3/",4664450
+"22000","Louisiana","70","  Proprietors' income 9/",19194.7
+"23000","Maine","","Income by place of residence",""
+"23000","Maine","10","Personal income (millions of dollars)",65335.2
+"23000","Maine","20","Population (persons) 3/",1340123
+"23000","Maine","70","  Proprietors' income 9/",4931.9
+"24000","Maryland","","Income by place of residence",""
+"24000","Maryland","10","Personal income (millions of dollars)",378491.5
+"24000","Maryland","20","Population (persons) 3/",6042153
+"24000","Maryland","70","  Proprietors' income 9/",30761.0
+"25000","Massachusetts","","Income by place of residence",""
+"25000","Massachusetts","10","Personal income (millions of dollars)",494177.3
+"25000","Massachusetts","20","Population (persons) 3/",6885720
+"25000","Massachusetts","70","  Proprietors' income 9/",42326.4
+"26000","Michigan","","Income by place of residence",""
+"26000","Michigan","10","Personal income (millions of dollars)",477009.6
+"26000","Michigan","20","Population (persons) 3/",9987286
+"26000","Michigan","70","  Proprietors' income 9/",30973.4
+"27000","Minnesota","","Income by place of residence",""
+"27000","Minnesota","10","Personal income (millions of dollars)",321638.5
+"27000","Minnesota","20","Population (persons) 3/",5608762
+"27000","Minnesota","70","  Proprietors' income 9/",23548.7
+"28000","Mississippi","","Income by place of residence",""
+"28000","Mississippi","10","Personal income (millions of dollars)",112837.6
+"28000","Mississippi","20","Population (persons) 3/",2982879
+"28000","Mississippi","70","  Proprietors' income 9/",8147.6
+"29000","Missouri","","Income by place of residence",""
+"29000","Missouri","10","Personal income (millions of dollars)",288385.0
+"29000","Missouri","20","Population (persons) 3/",6125986
+"29000","Missouri","70","  Proprietors' income 9/",19323.4
+"30000","Montana","","Income by place of residence",""
+"30000","Montana","10","Personal income (millions of dollars)",51117.4
+"30000","Montana","20","Population (persons) 3/",1061818
+"30000","Montana","70","  Proprietors' income 9/",4666.5
+"31000","Nebraska","","Income by place of residence",""
+"31000","Nebraska","10","Personal income (millions of dollars)",101845.6
+"31000","Nebraska","20","Population (persons) 3/",1925512
+"31000","Nebraska","70","  Proprietors' income 9/",11165.1
+"32000","Nevada","","Income by place of residence",""
+"32000","Nevada","10","Personal income (millions of dollars)",151367.8
+"32000","Nevada","20","Population (persons) 3/",3030725
+"32000","Nevada","70","  Proprietors' income 9/",10275.5
+"33000","New Hampshire","","Income by place of residence",""
+"33000","New Hampshire","10","Personal income (millions of dollars)",83199.1
+"33000","New Hampshire","20","Population (persons) 3/",1355064
+"33000","New Hampshire","70","  Proprietors' income 9/",8436.9
+"34000","New Jersey","","Income by place of residence",""
+"34000","New Jersey","10","Personal income (millions of dollars)",602870.1
+"34000","New Jersey","20","Population (persons) 3/",8891730
+"34000","New Jersey","70","  Proprietors' income 9/",59762.9
+"35000","New Mexico","","Income by place of residence",""
+"35000","New Mexico","10","Personal income (millions of dollars)",87204.6
+"35000","New Mexico","20","Population (persons) 3/",2093754
+"35000","New Mexico","70","  Proprietors' income 9/",5292.6
+"36000","New York","","Income by place of residence",""
+"36000","New York","10","Personal income (millions of dollars)",1340903.3
+"36000","New York","20","Population (persons) 3/",19544098
+"36000","New York","70","  Proprietors' income 9/",135208.4
+"37000","North Carolina","","Income by place of residence",""
+"37000","North Carolina","10","Personal income (millions of dollars)",479791.8
+"37000","North Carolina","20","Population (persons) 3/",10391358
+"37000","North Carolina","70","  Proprietors' income 9/",34255.1
+"38000","North Dakota","","Income by place of residence",""
+"38000","North Dakota","10","Personal income (millions of dollars)",42291.9
+"38000","North Dakota","20","Population (persons) 3/",760062
+"38000","North Dakota","70","  Proprietors' income 9/",4356.9
+"39000","Ohio","","Income by place of residence",""
+"39000","Ohio","10","Personal income (millions of dollars)",569184.0
+"39000","Ohio","20","Population (persons) 3/",11680892
+"39000","Ohio","70","  Proprietors' income 9/",42890.6
+"40000","Oklahoma","","Income by place of residence",""
+"40000","Oklahoma","10","Personal income (millions of dollars)",180633.6
+"40000","Oklahoma","20","Population (persons) 3/",3943488
+"40000","Oklahoma","70","  Proprietors' income 9/",22920.2
+"41000","Oregon","","Income by place of residence",""
+"41000","Oregon","10","Personal income (millions of dollars)",215365.4
+"41000","Oregon","20","Population (persons) 3/",4183538
+"41000","Oregon","70","  Proprietors' income 9/",18963.5
+"42000","Pennsylvania","","Income by place of residence",""
+"42000","Pennsylvania","10","Personal income (millions of dollars)",717255.3
+"42000","Pennsylvania","20","Population (persons) 3/",12809107
+"42000","Pennsylvania","70","  Proprietors' income 9/",70053.9
+"44000","Rhode Island","","Income by place of residence",""
+"44000","Rhode Island","10","Personal income (millions of dollars)",57603.7
+"44000","Rhode Island","20","Population (persons) 3/",1059338
+"44000","Rhode Island","70","  Proprietors' income 9/",3922.0
+"45000","South Carolina","","Income by place of residence",""
+"45000","South Carolina","10","Personal income (millions of dollars)",223256.9
+"45000","South Carolina","20","Population (persons) 3/",5091702
+"45000","South Carolina","70","  Proprietors' income 9/",15200.2
+"46000","South Dakota","","Income by place of residence",""
+"46000","South Dakota","10","Personal income (millions of dollars)",46248.9
+"46000","South Dakota","20","Population (persons) 3/",879386
+"46000","South Dakota","70","  Proprietors' income 9/",6582.7
+"47000","Tennessee","","Income by place of residence",""
+"47000","Tennessee","10","Personal income (millions of dollars)",319689.7
+"47000","Tennessee","20","Population (persons) 3/",6778180
+"47000","Tennessee","70","  Proprietors' income 9/",43891.8
+"48000","Texas","","Income by place of residence",""
+"48000","Texas","10","Personal income (millions of dollars)",1463962.2
+"48000","Texas","20","Population (persons) 3/",28624564
+"48000","Texas","70","  Proprietors' income 9/",193488.5
+"49000","Utah","","Income by place of residence",""
+"49000","Utah","10","Personal income (millions of dollars)",148240.6
+"49000","Utah","20","Population (persons) 3/",3155153
+"49000","Utah","70","  Proprietors' income 9/",11672.6
+"50000","Vermont","","Income by place of residence",""
+"50000","Vermont","10","Personal income (millions of dollars)",33422.7
+"50000","Vermont","20","Population (persons) 3/",624802
+"50000","Vermont","70","  Proprietors' income 9/",2792.9
+"51000","Virginia","","Income by place of residence",""
+"51000","Virginia","10","Personal income (millions of dollars)",492764.3
+"51000","Virginia","20","Population (persons) 3/",8510920
+"51000","Virginia","70","  Proprietors' income 9/",27189.7
+"53000","Washington","","Income by place of residence",""
+"53000","Washington","10","Personal income (millions of dollars)",468055.1
+"53000","Washington","20","Population (persons) 3/",7526793
+"53000","Washington","70","  Proprietors' income 9/",36463.6
+"54000","West Virginia","","Income by place of residence",""
+"54000","West Virginia","10","Personal income (millions of dollars)",74321.6
+"54000","West Virginia","20","Population (persons) 3/",1805953
+"54000","West Virginia","70","  Proprietors' income 9/",4575.7
+"55000","Wisconsin","","Income by place of residence",""
+"55000","Wisconsin","10","Personal income (millions of dollars)",299827.0
+"55000","Wisconsin","20","Population (persons) 3/",5809319
+"55000","Wisconsin","70","  Proprietors' income 9/",19443.2
+"56000","Wyoming","","Income by place of residence",""
+"56000","Wyoming","10","Personal income (millions of dollars)",35054.2
+"56000","Wyoming","20","Population (persons) 3/",579054
+"56000","Wyoming","70","  Proprietors' income 9/",4109.1
+"91000","New England","","Income by place of residence",""
+"91000","New England","10","Personal income (millions of dollars)",1001084.2
+"91000","New England","20","Population (persons) 3/",14839608
+"91000","New England","70","  Proprietors' income 9/",91806.7
+"92000","Mideast","","Income by place of residence",""
+"92000","Mideast","10","Personal income (millions of dollars)",3147619.1
+"92000","Mideast","20","Population (persons) 3/",48958220
+"92000","Mideast","70","  Proprietors' income 9/",306856.8
+"93000","Great Lakes","","Income by place of residence",""
+"93000","Great Lakes","10","Personal income (millions of dollars)",2389921.2
+"93000","Great Lakes","20","Population (persons) 3/",46900663
+"93000","Great Lakes","70","  Proprietors' income 9/",178410.7
+"94000","Plains","","Income by place of residence",""
+"94000","Plains","10","Personal income (millions of dollars)",1107629.8
+"94000","Plains","20","Population (persons) 3/",21362356
+"94000","Plains","70","  Proprietors' income 9/",96241.9
+"95000","Southeast","","Income by place of residence",""
+"95000","Southeast","10","Personal income (millions of dollars)",4022275.8
+"95000","Southeast","20","Population (persons) 3/",84367819
+"95000","Southeast","70","  Proprietors' income 9/",294570.1
+"96000","Southwest","","Income by place of residence",""
+"96000","Southwest","10","Personal income (millions of dollars)",2051026.8
+"96000","Southwest","20","Population (persons) 3/",41826034
+"96000","Southwest","70","  Proprietors' income 9/",243794.6
+"97000","Rocky Mountain","","Income by place of residence",""
+"97000","Rocky Mountain","10","Personal income (millions of dollars)",647600.7
+"97000","Rocky Mountain","20","Population (persons) 3/",12245254
+"97000","Rocky Mountain","70","  Proprietors' income 9/",62976.1
+"98000","Far West","","Income by place of residence",""
+"98000","Far West","10","Personal income (millions of dollars)",3472097.3
+"98000","Far West","20","Population (persons) 3/",56338245
+"98000","Far West","70","  Proprietors' income 9/",315378.0
+"Legend / Footnotes:"
+"3/ Census Bureau midyear population estimate. Estimates for 2010-2020 reflect Census Bureau midyear state population estimates available as of December 2020."
+"9/ Proprietors' income includes the inventory valuation adjustment and the capital consumption adjustment."
+"* Estimates prior to 1950 are not available for Alaska and Hawaii."
+"Note. All dollar estimates are in millions of current dollars (not adjusted for inflation). Calculations are performed on unrounded data."
+"Last updated: March 24, 2021-- new statistics for 2020; revised statistics 2010-2019."

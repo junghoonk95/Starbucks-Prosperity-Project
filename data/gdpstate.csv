@@ -1,0 +1,65 @@
+SAGDP2N Gross domestic product (GDP) by state 1/,,
+Gross domestic product (GDP) by state: All industry total (Millions of current dollars) ,,
+Bureau of Economic Analysis ,,
+State or DC,,
+GeoFips,GeoName,2018
+0,United States *,20611861
+1000,Alabama,221030.7
+2000,Alaska,54292.9
+4000,Arizona,350718.3
+5000,Arkansas,127761.3
+6000,California,2975083
+8000,Colorado,372452.9
+9000,Connecticut,279782.3
+10000,Delaware,74186.7
+11000,District of Columbia,138773.5
+12000,Florida,1050298.4
+13000,Georgia,602023.9
+15000,Hawaii,93100.5
+16000,Idaho,79090.8
+17000,Illinois,863039.5
+18000,Indiana,368424.5
+19000,Iowa,190147
+20000,Kansas,171718.8
+21000,Kentucky,207849.4
+22000,Louisiana,253236.1
+23000,Maine,64557
+24000,Maryland,411619.1
+25000,Massachusetts,570464.2
+26000,Michigan,521803.4
+27000,Minnesota,371929.7
+28000,Mississippi,113578.5
+29000,Missouri,317949.1
+30000,Montana,50692.3
+31000,Nebraska,124705.4
+32000,Nevada,169179.6
+33000,New Hampshire,84584.1
+34000,New Jersey,612979.3
+35000,New Mexico,100079.9
+36000,New York,1705010.2
+37000,North Carolina,567451.7
+38000,North Dakota,56286.8
+39000,Ohio,675029.7
+40000,Oklahoma,198595.8
+41000,Oregon,241978.1
+42000,Pennsylvania,778374.6
+44000,Rhode Island,59924.6
+45000,South Carolina,235286.9
+46000,South Dakota,53239
+47000,Tennessee,362737.1
+48000,Texas,1795635.1
+49000,Utah,181622.7
+50000,Vermont,32981
+51000,Virginia,533510.4
+53000,Washington,575416.7
+54000,West Virginia,77632.5
+55000,Wisconsin,337553.1
+56000,Wyoming,39703.2
+91000,New England,1092293.2
+92000,Mideast,3720943.4
+93000,Great Lakes,2765850.2
+94000,Plains,1285975.7
+95000,Southeast,4352396.9
+96000,Southwest,2445029.1
+97000,Rocky Mountain,723561.8
+98000,Far West,4109050.7
